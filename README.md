@@ -20,24 +20,19 @@ P.S. Думаю, кот с картинки принадлежит https://t.me/
 
 Скриншоты запросов и ответов сервиса.
 1. GET-запрос:
-   
-https://github.com/user-attachments/assets/a5663f56-cf30-4b84-a404-beee16fdf842
+![get](https://github.com/user-attachments/assets/4d3551ec-f9f6-4133-b0d7-e7ea72fa228a)
 
 2. POST-запрос для одиночного объекта (объект не соержит ошибок):
-
-https://github.com/user-attachments/assets/967a07b2-820b-4677-b5ee-9074fcea09f9
+![post-item-true](https://github.com/user-attachments/assets/2a917b12-934b-4133-9053-16ed8df0be70)
 
 3. POST-запрос для одиночного объекта (объект содержит ошибки):
-   
-https://github.com/user-attachments/assets/464d9513-7896-4168-8e49-509450877dd9
+![post-item-false](https://github.com/user-attachments/assets/77926363-b953-48e7-8493-1924ea29f132)
 
 4. POST-запрос для коллекции объектов (коллекция не соержит ошибок):
-
-https://github.com/user-attachments/assets/f04a4f70-f732-4436-91b4-32f0896a47ed
+![post-items-true](https://github.com/user-attachments/assets/9e773ef1-e1c4-4f51-9b49-a105ea5473de)
 
 5. POST-запрос для коллекции объектов (коллекция содержит ошибки):
-
-https://github.com/user-attachments/assets/2e3558b3-7584-4f70-82e6-7ea77ace88b6
+![post-items-false](https://github.com/user-attachments/assets/6db26adb-e6f2-49e0-aae8-f5a1ae583283)
 
 6. POST-запрос для csv-файла. Здвесь проще приложить скриншоты:
 - исходный файл:
